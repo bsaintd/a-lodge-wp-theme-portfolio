@@ -1,0 +1,1 @@
+rsync -av alodge@alodge.ssh.wpengine.net:/home/wpe-user/sites/alodge/wp-content/themes/fueled-on-bacon/ .

@@ -1,0 +1,1 @@
+rsync -av vansalodge@vansalodge.ssh.wpengine.net:/home/wpe-user/sites/vansalodge/wp-content/themes/fueled-on-bacon/ .
